@@ -1,1 +1,82 @@
-
+\chapter{Genetica batterica}
+A differenza degli eucarioti, nei procarioti non avviene lo splicing del DNA. I geni sono organizzati in operoni. Pi\`u geni possono venir letti dallo stesso frammento di DNA della stessa polimerasi. Per questa capacit\`a i microbi sono degli organismi policistronici, cio\`e il loro mRNA porta l'informazione per pi\`u geni. 
+\section{Mutazione}
+La mutazione \`e un cambiamento ereditabile nella sequenza delle basi nucleotidiche del genoma. Un ceppo che porta questo cambiamento \`e detto mutante. Le propriet\`a osservabili del mutante rappresentano il fenotipo; mentre differisce dal ceppo parentale per il suo genotipo. Il ceppo non mutato viene detto ceppo selvatico.
+\\Il genotipo viene indicato con tre lettere minuscole seguire da una lettera maiuscola, tutte in corsivo. Per esempio il gene \textit{hisC} di E. coli codifica una proteina denominata HisC, coinvolta nella sintesti dell'aminoacido istidina. Le mutazioni del gene \textit{hisC} sono indicate come \textbf{hisC1}, \textbf{hisC2}, e via dicendo. Il fenotipo di un organismo mutante viene designato da tre lettere con un apice pi\`u o meno, a indicare la presenza o meno di questa propriet\`a. Un ceppo His\ap{-} non \`e in grado di produrre la propria istidina.
+\subsection{L'isolamento dei mutanti: la selezione}
+Le mutazioni possono essere:
+\begin{itemize}
+    \item selezionabili, quando conferiscono alcuni vantaggi;
+    \item non selezionabili quando non portano n\`e vantaggi n\`e svantaggi, anche se portano eventuamente a un profondo cambiamento del fenotipo dell'organismo.
+\end{itemize}
+Un esempio di mutazione selezionabile \`e la resistenza agli antibiotici. Un mutante antibiotico pu\`o crescere in presenza di una concentrazione del farmaco che inibisce o uccide il tipo selvatico. 
+\\La selezione \`e uno strumento potente che permette l'isolamento di un singolo mutante all'interno di una popolazione. 
+\subsection{L'isolamento di mutanti nutrizionali per selezione indiretta}
+Possono essere identificati dei mutanti nutrizionali difettivi con la tecnica di "replica plating". In questa tecnica si utilizza un velluto sterile che serve per ottenere una stampa delle colonie da una piastra madre su un'altra piastra mancante di alcuni nutrienti. Le colonie di tipo parentale crescono normalmente, ma questo non accade per quelle mutanti. L'incapacit\`a di una colonia a crescere sulla piastra replicata la segnala come mutante. La colonia che sulla piastra madre \`e localizzata in corrsipondenza dello spazio vuoto sulla piastra di replica pu\`o essere isolata, purificata e caratterizzata. Un mutante che presenta una specifica richiestra nutrizionale \`e detto auxotrofo. Per esmpio dei mutanti di E. coli con un fenotipo His\ap{-} sono auxotrofi per l'istidina.
+\section{Le basi molecolari delle mutazioni}
+Le mutazioni possono essere spontanee o indotte. 
+Le mutazioni indotte sono dovute all'azione di agenti ambientali e includono le mutazioni deliberatamente prodotte dall'uomo. Possono essere il risultato dell'esposizione a radiazioni naturali che alterano la struttura delle basi del DNA.
+\\Le mutazioni spontanee avvengono senza un intervento esterno. La maggior parte di esse si generano durante la replicazione del DNA da errori occasionali della DNA polimerasi nell'appaiamento di basi. 
+\\Le mutazioni che cambiano solo una coppia di basi sono dette puntiformi. 
+\subsection{Sostituzioni di paia di basi}
+La sostituzione di una coppia di basi si chiama mutazione puntiforme. L'errore nel DNA viene trascritto nell'mRNA che viene tradotto per produrre la proteina. 
+\subsubsection{Mutazione missenso}
+Questo tipo di mutazione occore in una regione codificante del DNA. La mutazione risulta generalmente nell'alterazione della sequenza degli aminoacidi della proteina codicata dal gene mutato. Non tutte le mutazioni di questo tipo portano a un mancato funzionamento della proteina. IL risultato dipende dall'effetto che ha la mutazione sul ripiegamento del polipeptide. 
+\subsubsection{Mutazione silente}
+Questo tipo di mutazione si verifica a causa della degenerazione del codice genetico, non tutte determinano un cambiamento nella proteina. Cadono spesso nella terza base del codone perch\`e \`e la pi\`u "degenerata".
+\subsubsection{Mutazione nonsenso}
+Questo tipo porta alla formazione di un codone nonsenso (stop codon) e alla formazione di una proteina incompleta.
+\subsection{Scivolamento dello schema di lettura (frameshift)}
+Perdite o inserimenti di basi determinano uno scivolamento del frameshift ed una modifica dell'intera sequenza della proteina. La perdita o l'inserimento di multipli di 3 basi risultano nell'acquisto o nella perdita di aminoacidi senza scivolamento del frameshift. Questi spostamenti possono avvenire per inserzione o delezione. Il frameshift di un solo nucleotide porta alla comparsa di molti codoni di Stop. Alcune delezioni sono cos\`i vaste da includere pi\`u geni: se anche solo uno di questi \`e fondamentale, la mutazione sar\`a letale. 
+\\Nella fibrosi cistica, una delezione di tre nucleotidi porta alla scomparsa di un amminoacido di una proteina fondamentale e questo comporta all'insorgenza della malattia. 
+\section{Retromutazioni o reversioni}
+Le mutazioni puntiformi sono generalmente reversibili grazie alle reversioni. Un revertante viene definito come un ceppo in cui il fenotipo selvetaico, che era stato perso nel mutante, vieme ripristinato. Esistono due tipi di revertanti: 
+\begin{enumerate}
+    \item \textbf{Revertanti "dello stesso sito"} $\xrightarrow{}$ la mutazione che ripristina l'attivit\`a si verifica nel medesimo sito in cui \`e avvenuta la mutazione originale. 
+    \item \textbf{Revertanti "di secondo sito"} $\xrightarrow{}$ la mutazione avviene in un sito differente del DNA. Queste mutazioni sono dette soppressive, perch\`e compensano l'effetto della mutazione originale e ripristinano il fenotipo selvatico. Possono essere:
+    \begin{itemize}
+        \item una mutazione nello stesso gene che ristabilisce il frameshift originale;
+        \item una mutazione in un altro gee che pu\`o ripristinare la funzione del gene originale mutato;
+        \item una mutazione in un altro gene che determina la produzione di un enzima che pu\`o sostituire quella mutante.
+    \end{itemize}
+\end{enumerate}
+\subsection{Frequenza di mutazione}
+Gli errori nella replicazione del DNA ricorrono con la frequenza di circa 10\ap{-7} - 10\ap{-11} per coppia di basi durante un ciclo di replicazione. Va ricordato, che solo una piccola percentuale di mutazioni porta ad un danno o ad una malattia. Un gene tipo possiede all'incirca 1000 paia di basi e la frequenza in un dato gee sarebbe di 10\ap{-4} - 10\ap{-8} per generazione. In una coltura batterica che ha circa 10\ap{8} cellule/ml esiste la probabilit\`a che in ciascun ml di coltura ci sia almeno un mutante per un dato gene. 
+\\Le mutazioni pi\`u frequenti sono di tipo missenso > silenti > nonsenso. 
+\section{La mutagenesi}
+Vari agenti chimici, fisici o biologici possono indurre le mutazioni, aumentandone la frequenza.
+\subsection{Mutageni chimici}
+\subsubsection{Analoghi delle basi nucleotidiche}
+Gli analoghi delle basi nucleotidiche sono molecole la cui struttura somiglia alle purine e alle pirimidine presenti nel DNA e che con esse si appaiono in modo difettoso. In questi siti gli errori di replicazione del DNA avvengono a frequenza pi\`u elevate a causa di un appaiamento nucleotidico scorretto che determina l'incorporazione di un nucleotide sbagliato nel nuovo filamento di DNA e quindi l'introduzione di una mutazione. Durante la successiva divisione cellulare, la molecole di DNA segrega la mutazione che verr\`a rilevata. 
+\\Due comuni nucleotidi analoghi di basi sono:
+\begin{itemize}
+    \item Il 5-bromuracile che assomiglia strutturalmente molto alla timina, ma si accoppia con la guanina;
+    \item La 2-Amminopurina che assomiglia molto all'adenina, ma si accoppia con la citosina. 
+\end{itemize}
+\textbf{Esempio.} Quando il 5-Bromuracile \`e incorporato al DNA, causa una mutazione. Quando la cellula si replica, una delle figlie sar\`a normale e una mutata, nella quale il bU si accoppia alla guanina. Dopo due cicli di replicazione si ottiene una completa sostituzione del paio di basi: T-A \`e stata sotituita da G-C.
+\subsubsection{Agenti alchilanti}
+Gli agenti alchilanti sono dei composti chimici che reagiscono con i gruppi annimici, carbossilici o idrossilici sostituendoli con gruppi alchilici. Un esempio \`e la nitrosoguanidina. Sono potenti mutageni e inducono mutazioni a frequenze elevate rispetto agli analoghi nucleotidici. Interagiscono direttamente con il DNA, ad esempio creando dei legami crociati tra le eliche del DNA e inducono cambiamenti anche in assenza di replicazione del DNA.
+\subsubsection{Agenti intercalanti} Questi mutagenisi si inseriscono tra due coppie di basi del DNA, separandole. Portano a microinserzioni o microdelezioni e inducono mutazioni frameshift. Per esempio, quando l'acridina nella doppia elica del DNA porta all'inserimento o alla delezione di nucleotide da parte della DNA polimerasi.
+\subsection{Le radiazioni}
+Le radiazioni elettrimagnetiche mutagene possono essere suddivise in due categorie principali: non ionizzanti e ionizzanti.
+\\Le radiazioni non ionizzanti, come i raggi UV, sono le pi\`u utilizzate. Inducono la fomrmazione di dimeri di pirimidine (C o T), uno stato in cui le basi vengono legate covalentemente durante la replicazione del DNA, aumentando la probabilit\`a che la DNA polimerasi inserisca in questa posizione un nucleotide sbagliato. 
+\\Le radiazioni ionizzanti sono pi\`u potenti e includono raggi a lunghezza d'onda corta, come raggi X, raggi cosmici e raggi gamma. Questo tipo di radiazioni causano effetti mutageni indiretti tramite la ionizzazione dell'acqua e la formazione del radicale libero OH\ap{-}. A basse dosi le radiazioni ionizzanti producono solo piccoli cambiamenti, mentre a dosi pi\`u elevate possono provocare una tale degradazione del DNA rendendone quasi impossibile la riparazione ($\xrightarrow{}$ morte della cellula).
+\subsubsection{Identificazione di mutanti per selezione positiva}
+Questa selezione si attua eliminando i wilde-type del batterio e studiando quello mutante. Un esempio \`e un terreno contente penicillina, dove molti batteri muoiono, ma alcuni resistono. Questi ultimi sono mutanti. Quando un agente mutageno viene introdotto nella coltura, questo aumenta i numeri di batteri mutanti. Per verificare quanto un agente \`e mutageno bisogna contare le colonie presenti dopo l'incubazione con penicillina. 
+\begin{center}
+\\$\frac{N\ap{o} di colonie con l'agente mutageno - N\ap{o} di colonie senza agente mutageno}{N\ap{o} di colonie senza agente mutageno}$ x 100
+\end{center}
+\subsubsection{Il test di Ames} 
+Si utilizza per identificare quanto un sostanza pu\`o indurre mutazioni. 
+\\Il test di Ames utilizza mutanti del genere \textit{Salmonella} con una mutazione puntiforme che impedisce la biosintesi dell'amminoacido istidina His\ap{-} (istidina auxotrofo). Ad una sospensione di mutanti si introduce un estratto di fegato, che simula le condizioni fisiologiche nelle quali enzimi epatici possono trasformare varie sostanze innocue in agenti mutageni. I batteri, poi, vengono piastrati su un terreno senza istidina. Se la sostanza mutagena  produrr\`a dei revertanti con His\ap{+} con conseguente sviluppo di colonie, se non lo \`e non si verificher\`a lo sviluppo di alcuna colonia.
+\subsection{Riparazione del DNA}
+\subsubsection{Dimeri di pirimidina}
+Questo tipo di mutazioni sono dovute alle radiazioni UV e causano delle distorsioni che vengono lette male dalle polimerasi. Esistono due tipi riparazione:
+\begin{itemize}
+    \item \textbf{Light repair} 
+    \item
+\end{itemize}
+\subsubsection{Riparazione per escissione di basi}
+\subsubsection{Missmatch repair}
+\subsubsection{Risposta SOS}
+\subsubsection{La ricombinazione genetica}

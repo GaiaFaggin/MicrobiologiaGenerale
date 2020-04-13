@@ -73,10 +73,80 @@ Si utilizza per identificare quanto un sostanza pu\`o indurre mutazioni.
 \subsubsection{Dimeri di pirimidina}
 Questo tipo di mutazioni sono dovute alle radiazioni UV e causano delle distorsioni che vengono lette male dalle polimerasi. Esistono due tipi riparazione:
 \begin{itemize}
-    \item \textbf{Light repair} 
-    \item
+    \item \textbf{Light repair} $\xrightarrow{}$ molte cellule contengono l'enzima fotoliasi. Questo enzima \`e fotosensibile e viene attivato quando l'organismo \`e esposto alla luce. La sua funzione \`e quella di riparare il danno provocato dal dimero rompendo il legame che forma. \`E difficile da studiare al buioi;
+    \item \textbf{Dark repair} $\xrightarrow{}$ gli enzimi che vengono coinvolti in questo meccanismo di riparazione tagliano l'elica nel frammento mutato. Dopodich\`e la DNA polimerasi I e la ligasi ricostituiscono il DNA.
 \end{itemize}
-\subsubsection{Riparazione per escissione di basi}
+\subsubsection{Riparazione per escissione di basi} 
+Alle volte la polimerasi sbaglia ad inserire un nucleotide. Se non \`e lei stessa che si accorge del suo errore e lo corregge, si attivaun meccanismo di riparazione. Questo meccanismo \`e composto da un sistema di enzimi che taglia il nucleotide mal appaiato. Utilizzando la polimerasi I e una ligasi ricostituiscono il DNA. 
 \subsubsection{Missmatch repair}
-\subsubsection{Risposta SOS}
+In questo tipo di riparazione gli enzimi cecrcano nella molecola di DNA un appaiamento sbagliato. Quando lo individuano rimuovono un pezzo di pi\`u di un nucleotide, che verr\`a riempito dalla DNA polimerasi III e cucito da una ligasi. 
+\\\\Per gli errori pi\`u gravi esistono altri meccanismi di riparazione.
+\subsubsection{Risposta SOS} 
+Questo tipo di risposta viene utilizzata per errori molto gravi. Vengono attivate delle polimerasi (IV e V) che riescono a leggere il DNA anche quando \`e molto danneggiato. Queste, per\`o, non riesscono a leggere la sequenza nucleotica con grande accuratezza, e causano molti altri errori. Tuttavia, le cellule che subiscono questo tipo di riparazione hanno una piccola possibilit\`a di sopravvivenza.
+\\Il sistema SOS \`e regolato da due proteine, LexA e RecA. LexA \`e un repressore che normalmente previene l'espressione del regulone SOS. La proteina RecA viene attivata dalla presenza di un danno al DNA. La forma attiva di RecA stimola LexA che si inattiva grazie a un evento auto-proteolitico. Questo porta alla depressione del sistema SOS e all'espressione coordinata di un certo numero di proteine che prendono parte alla riparazione del DNA. Poich\`e alcuni meccanismi di riparazione del DNA del sistema SOS sono intrinsicamente suscettibili di errore, possono insorgere molte mutazioni. 
 \subsubsection{La ricombinazione genetica}
+\`E uno scambio fisico di materiale genetico. La ricombinazione omologa consiste nello scambio genetico tra sequenze omologhe di DNA. Il processo inizia con un taglio (nick) prodotto da una endonucleasi (enzima che taglia il DNA) e che ha spesso anche un'attivit\`a elicasica per srotolare il DNA. Le proteine SSB + RecA si legano e forano un complesso che facilita il riappaiamento con la sequenza complementare del DNA recipiente, mentre avviene lo spostamento spontaneo del filamento residente. Dopo l'appaiamento pu\`o avvenire uno scambio di molecole omologhe di DNA, che porta alla formazione di intermedi di ricombinazione, contenenti regioni eteroduplici dove ciascun frammento \`e originato da cromosomi differenti. 
+\\ Si possono ottenere due risultati diversi, in base a dove \`e stato tagliato il DNA eteroduplice: la forma \textbf{Patch} dove solo uno dei due filamenti del DNA cambia e la forma \textbf{Splice} dove cambiano entrambi.
+\subsection{Identificazione dei ricombinanti}
+Si usano di solito dei ceppi riceventi che mancano di alcuni caratteristiche selezionabili che i ricombinanti dovranno possedere. Per la reale identificazione di un'avvenuta ricombinazione \`e importante che il tasso di retromutazione per il carattere studiato sia basso perch\`e oltre ai ricombinanti anche i revertanti potranno formare colonie. Si usano  spesso doppi mutanti, ceppi che presentano delle mutazioni diverse) poich\`e \`e poco probabile che possano avvenire due retromutazioni nella stessa cellula. 
+\\Nei procarioti \`e possibile osservare la ricombinazione genetica quando i frammenti di DNA omologo vengono trasferiti da una cellula donatrice ad una ricevente. Esistono tre processi di traferimento orizzontale:
+\begin{itemize}
+    \item \textbf{Trasformazione} $\xrightarrow{}$ il DNA di una cellula viene assimilato da un'altra cellula, senza contatto diretto; 
+    \item \textbf{Trasduzione} $\xrightarrow{}$ il DNA del donatore si trasferisce grazie alla mediazione di un virus;
+    \item \textbf{Coniugazione} $\xrightarrow{}$ il trasferimento coinvolge il contatto cellula-cellula.
+\end{itemize}
+\subsubsection{Trasformazione}
+\`E un processo mediante il quale un DNA libero viene incorporati e determina un cambiamento genetico. Il DNA di una cellula viene assimilato da un'altra cellula senza che vi sia un contatto diretto; la cellula recipiente prende il DNA dall'ambiente, come quello rilasciato da una cellula morta. 
+\\Questo processo \`e stato scoperto nel 1928 da Frederick Griffith, mentre cercav di sviluppare un vaccino per il batterio patogeno Streptococcus pneumoniae. Questo patogeno deve la sua capacit\`a di invasione dell'ospite alla presenza di una capsula polisaccarida (ceppo S). Mutanti privi delle capsula (ceppo R) e cellule di tipo S uccise dal colore sono incapaci di causare l'infezione. Se si iniettono cellule S uccise con il calore, insieme a cellule R vitali si sviluppa l'infezione. I batteri isolati del topo infettato sono di tipo S; si \`e veriicata una trasformazione delle cellule R in cellule S. 
+\\\`E possibile vedere e isolare le cellule S vitali nel topo morto ed \`e anche possibile dimostrare  in provetta come avviene la trasformazione da cellule R in S.
+\\Le cellule che hanno l'abilit\`a di acquisire DNA dall'ambiente sono dette competenti. La competenza dipende da alterazioni degli involucri cellulari (mebrana/e e parete) e pu\`o essere sia naturale che artificiale. Molte cellule non competenti possono essere trasformate in competenti grazie all'utilizzo dell'ingegneria genetica, come per E.Coli. Possono diventare competenti in seguito a shock elettrici o esposizione a cloruro di calcio: questi processi rendono la membrana pi\`u permeabile al DNA. \`E molto pi\`u semplice trasformare i batteri con DNA plasmidico perch\`e:
+\begin{itemize}
+    \item i plasmidi non si degradano con facilit\`a quanti i frammenti linear; 
+    \item non riechiedono necessariamente integrazione nel cromosoma batterico tramite ricombinazione omologa;
+    \item possono replicarsi all'interno della cellula ospite. 
+\end{itemize}
+A causa della sua lunghezza (3*10\ap{6} - 6*10\ap{6} paia di basi) la molecola di DNA in un ambiente extracellulare si pu\`o rompere facilmente. Anche dopo l'estrazione delicata un cromosoma batterico si riduce in frammenti di circa 1500 basi (circa 10 geni). Questa dimensione rappresenta un tipico frammento "trasformabile". 
+\\Processo di inserzione:
+\begin{itemize}
+    \item il DNA trasfomante linear si lega alla superficie della cellula mediante un proteina legante il DNA, dopo di che o penetra l'intero frammento a doppio filamento o una nucleasi degrada un filamento e l'altro viene acquistato;
+    \item il DNA si associa ad una specifica proteina di competenza che lo protegge dall'attaccoo delle nucleasi;
+    \item il DNA viene poi integrato nel genoma del ricevente mediante un processo di ricombinazione omologa non reciproca che coinvolge la proteian RecA;
+    \item durante la replicazione di questa molecola di DNA eteroduplice, si formeranno una molecola di DNA parentale e una molecola di DNA parentale e una molecola di DNA ricombinante.
+\end{itemize}
+\textbf{Sistemi di ingresso del DNA}
+\\Esistono due tipi di ingressp del DNA: uno per i gram-negativi e uno per i gram-positivi.
+Per i gram-negativi: 
+\begin{itemize}
+    \item PilQ contribuisce al movimento attraverso la membrana esterna; 
+    \item PilE trasferisce il DNA attraverso la parete e lo spazio periplasmatico; 
+    \item ComE \`e una proteina di legame al DNA; 
+    \item N \`e la nucleasi che degrada un filamento di DNA; 
+    \item ComA \`e un canale che consente il passaggio del DNA nel citoplasma.
+\end{itemize}
+Per quanto rigurda i gram-positivi ci sono delle similarit\`a con il sistema dei gram-negativi:
+\begin{itemize}
+    \item ComGC equivale a PilE;
+    \item ComEA equivale a ComE;
+    \item N \`e la nucleasi;
+    \item ComEC \`e la proteina di canale ed equivale a ComA;
+    \item ComFa \`e una DNA traslocasi in grado di trasferire il DNA nel citoplasma e non c'\`e nessun equivalente noto nei gram-negativi.
+\end{itemize}
+\subsubsection{Trasduzione}
+La trasduzione \`e un metodo che implica il trasferimento d DNA da una cellula donatrice ad una cellula ricevente tramite un virus. Pu\`o avvenire si tra cellule eucariotiche che procariote. \`E limitata dalla specificit\`a di infezione del viru stesso. I virus che infettano i batteri sono chiamati batteriofagi o fagi. 
+\\Durante la trasduzione, il fago entra in contatto con la cellula ospite, inietta il proprio DNA e devia il metabolismo cellulare verso la sintesi di nuove particelle virali, dette virioni. Durante l'assemblaggio dei virioni frammenti di DNA della cellula ospite possono essere incapsulati e trasferiti ad un'altra cellula ospite. 
+\\Il trasferimento di geni dell'ospite attraverso i virus pu\`o avvenire in due modi: 
+\begin{itemize}
+    \item \textbf{Trasduzione generalizzata} $\xrightarrow{}$ In questo processo qualsiasi frammento di DNA derivante dal genoma dell'ospite pu\`o diventare la componente di DNA dei nuovi virus. Nel momento in cui una cellula batterica viene infettata da un fago, iniziano il ciclo litico. Alle volte gli enzimi responsabili per l'impacchettamento del DNA virale nella testa del fago, impacchettano per errore anche DNA dell'ospite. La particella che ne risulta viene chiamata particella trasducente. Queste particelle vengono rilasciate alla lisi della cellula assieme a dei virioni normali che sono potenzialmente litici. Le particelle trasducenti non possno dare luogo a una normale infezione virale e vengono dette diffettive: i geni batterici hanno sostituito alcuni geni virali indispensabili. Mentre il lisato, formato da particelle trasducenti e virioni normali, viene usato per infettare una popolazione di cellule riceventi, una parte di essa viene in contatto con le particelle trasducenti che iniettano all'interno della cellula batterica il DNA del precedente batterio ospite. Il DNA delle particelle trasducenti non pu\`o repilcarsi, ma pu\`o subire una ricombinazione genetica con il DNA del nuovo ospite.
+    \\Un virus, oltre al ciclo litico, pu\`o compiere anche il ciclo lisogenico. Una volta che si \`e attaccato a un batterio, il virus pu\`o iniettare il suo DNA. Quest'ultimo si chiude ad anello e si integra col genoma della cellula ospite. In seguito, questa si divide, mantenendo il genoma virale nel DNA delle cellule ospiti. Questo \`e una specie di periodo di latenza del virus; infatti esso pu\`o riattivarsi e riprendere il ciclo litico. Il profago, che indica la situazione di integrazione fra DNA virale e batterico, \`e integrato nel cromosoma batterico e si replica insieme alla cellula fino a quando i geni che codificano per il ciclo litico non sono espressi.
+    \\La capacit\`a di svolgere il ciclo litico e il ciclo lisogenico \`e diversa nelle diverse specie di batteriofagi: i fagi "temperati" sono in grado di compiere, in base alle diverse condizioni, il ciclo litico o il ciclo lisogenico; i fagi "virulenti" possono compiere solamente il ciclo litico e quindi risultano patogeni
+    \item \textbf{Trasduzione specializzata} $\xrightarrow{}$ Permette un trasferimento efficiente e garantire a una piccola regione del cromosoma batterico di venire trasdotta indipendentemente dal resto. Un esempio noto \`e la trasduzione dei geni del galattosio a opera del fago lambda di E. coli. La regione in cui lambda si integra nel cromosoma di E. coli adiacente ai geni dell'ospite che controllano gli enzimi coinvolti nell'utilizzazione del galattosio. Durante la fase di induzione, il DNA del profago viene escisso come un'unit\`a. In rare condizioni il genoma fagico viene escisso in modo non corretto e alcuni geni del cromosoma batterico sono erroneamente escissi insieme al DNA fagico.
+    \\Lambda dgal (d sta per difettivo) \`e una particella alterata difettiva perch\`e alcuni geni fagici si sono persi e non possono generare dei fagi maturi in un'infezione successiva. Un virione lambda non difettivo \`e detto fago helper. Un fago helper pu\`o fornire le informazioni mancanti nelle particelle  difettive. Se alcune cellule vengono coinfettate da lambda dgal e da un fago helper; il lisato ottenuto conterr\`a alcune particelle dgal con un gran numero di virioni normali. Quando un coltura batterica auxotrofa per il galattosio, Gal\ap{-}, viene infettata con questo lisato misto, si possono selezionare i batteri trasducenti Gal\ap{+}.Molti di questi sono doppi lisogeni contenenti sia lamba helper che lambda dgal. Se i doppi lisogeni vengono indotti si otterr\`a un lisato "ricco" di fagi dgal, che potr\`a trasdurre i geni gal ad alta efficienza.
+\end{itemize}
+\subsubsection{Coniugazione}
+In questo metodo il trasferimento coinvolge il contatto cellula-cellula mediante i plasmidi. 
+\\I plasmidi sono degli elementi genetici, normalmente di forma circolare, in grado di replicarsi indipendetemente dal cromosoma dell'ospite. Contengono geni non essenziali, ma utili in determinate condizioni, alla vita dell'ospite. Si conoscono migliaia di tipi differenti di plasmidi, oltre 300 tipi per E. coli. La loro dimensione varia da 1 Kb a 1 Mb, circa il 5$\%$ della dimensione del genoma. Sono presenti da 1 ad oltre 100 copie/cellule ospite. Gli enzimi coinvolti nella replicazione dei plasmidi sono gli stessi utilizzati per la replicazione del genoma della cellula ospite. 
+\\\\\textbf{Incopatibilit\`a dei plasmidi} $\xrightarrow{}$ I plasmidi incompatibili non possono essere mantenuti assieme nella cellula ospite, e competono l'un l'altro per l'inizio della replicazione. Si parla di gruppi di incompatibilit\`a. Plasmidi dello stesso gruppo condividono un meccanismo comune di regolazione della replicazione e quindi sono correlati. Una cellula batterica pu\`o contenere differenti tipi di plasmidi, purch\`e non siano geneticamente correlati. 
+\\\textbf{Plasmidi episomi} $\xrightarrow{}$ I plasmidi episomi sono in gradoo di integrarsi nel cromosoma e in tali condizioni la loro replicazione procede sotto il controllo del cromosoma stesso. 
+\\\textbf{Curing} $\xrightarrow{}$ Il curing \`e la perdita di un plasmide da parte della cellula. Avviene spontaneamente in popolazioni naturali quando non vi \`e una pressione selettiva per il suo mantenimento. 
+\\\\I plasmidi costituiscono uno dei principali meccanismi in grado di conferire alla cellula ospite delle specifiche propriet\`a che possono essere trasferite ad altri microrganismi. L'unica limitazione \`e che i geni plasmidici non si interfacciano con la replicazione stessa del plasmide o con la sopravvivenza dell'ospite. 
+\\I plasmidi R, o plasmidi di resistenza conferiscono resistenza agli antibiotici e a vari inibitori di crescita. Un plasmide di questo tipo pu\`o avere diversi geni di resistenza che codificano proteine che: inattivano l'antibiotico; ne impediscono l'ingresso nella cellula; ne facilitano l'espulsione dalla cellula. 
